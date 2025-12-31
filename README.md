@@ -1,6 +1,6 @@
 # The Wild Feast: A Forager's Guide to the Pacific Northwest
 
-![Misty Pacific Northwest Forest](https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?w=1200)
+![Misty Pacific Northwest Forest](https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?w=1200&q=80)
 
 ## An Educational & Entertaining Guide to Wild Edibles in Washington and Oregon
 
@@ -115,6 +115,13 @@ Written in an accessible, engaging style that makes learning enjoyable while mai
 - Complete citations and references
 - Recommended field guides
 - Organizations and resources
+
+**[Chapter 16: Interactive Foraging Maps 🗺️](16-interactive-maps.md)**
+- Washington foraging locations with clickable maps
+- Oregon foraging locations with clickable maps
+- Columbia River Gorge hotspots
+- Seasonal map guides
+- How to create your own foraging maps
 
 ---
 
