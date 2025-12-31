@@ -1,5 +1,8 @@
 # Chapter 0: Introduction to Foraging in the Pacific Northwest
 
+![Pacific Northwest Mushrooms and Berries](https://images.unsplash.com/photo-1509358271058-acd22cc93898?w=1200&q=80)
+*Wild edibles await discovery throughout the forests and trails of Washington and Oregon*
+
 ## Welcome to the Wild Feast
 
 The Pacific Northwest—stretching from the misty Oregon Coast to the towering Cascades of Washington—is one of North America's most abundant foraging regions. This temperate rainforest ecosystem offers an incredible diversity of edible mushrooms, berries, and wild greens that have sustained indigenous peoples for millennia and continue to delight modern foragers.
@@ -135,5 +138,5 @@ The forests, coasts, and mountains are calling. Let's answer with a basket in ha
 
 *Remember: When in doubt, don't eat it. No meal is worth risking your health.*
 
-![Misty Pacific Northwest forest](https://images.unsplash.com/photo-1542273917363-3b1817f69a2d)
+![Misty Pacific Northwest forest](https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?w=1200&q=80)
 *The lush temperate rainforests of the Pacific Northwest provide ideal habitat for countless edible species*
